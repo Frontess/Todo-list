@@ -11,3 +11,9 @@
 - отметить выполненные задачи *"готово"*
 
 Технологический стек: JavaScript, Bootstrap.
+
+****
+
+<div id="footer">
+  <src href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFhc3E1M2U1cHB1MnIwYm9mYXYzNmhxdGRqMTNtaWNyeDhtdm9zOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWRqdUscwcDQ0yXbSD/giphy.gif" width=300px />
+</div>
