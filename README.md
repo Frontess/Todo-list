@@ -3,7 +3,7 @@
 ****
 
 - [x] Сервис представляет собой инструмент для постановки и контроля выполнения задач для трех участников: ***frontend***, ***backend*** и ***teamlead***.
-- [ ] HTML элементы собираются в JS коде через функции [createElement](https://developer.mozilla.org/ru/docs/Web/API/Document/createElement)     
+- [ ] Таблица и новые элементы создаются в модицикации DOM, используя JavaScript [createElement](https://developer.mozilla.org/ru/docs/Web/API/Document/createElement)     
 - [ ] Пользователю доступны три активные вкладки ***задачи frontend***, ***задачи backend*** и ***задачи teamlead*** для перехода по задачам.
 - [ ] Функционал:
 - добавить задачу *"Введите название нового дела"*
